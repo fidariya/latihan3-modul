@@ -17,7 +17,7 @@ pada perintah for i in range() berfungsi untuk mengembalikan nilai berupa objek 
 
 #### Menggunakan perintah seperti gambar dibawah ini.
 ![Gambar](ss/ss5.png)           
-fungsi \t untuk menulis karakter tab, dan menggunakan perintah for loop untuk mengulangi item dari urutan apapun,seperti list atau string. Dibawah ini adalah gambal dari hasil menggunakan perintah for loop.
+fungsi \t untuk menulis karakter tab, dan menggunakan perintah for loop untuk mengulangi item dari urutan apapun,seperti list atau string. Dibawah ini adalah gambar dari hasil menggunakan perintah for loop.
 ![Gambar](ss/ss6.png)
 
 ## Bilangan Acak Lebih Kecil Dari 0,5 
@@ -36,7 +36,7 @@ Dengan memasukan 3 angka akan membandingkan ketiga bilangan tersebut untuk mengh
 #### Berikut adalah Code Pemograman Menggunakan Statement if 
 ![Gambar](ss/ss10.png)      
 Untuk variabel a,b,dan c adalah permisalan untuk bilangan pertama, kedua maupun ketiga.
-#### Beriku adalah hasil adri program pada saat dijalankan
+#### Beriku adalah hasil dari program pada saat dijalankan
 ![Gambar](ss/ss11.png)
 
 ## Latihan 1

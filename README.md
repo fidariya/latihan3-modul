@@ -9,14 +9,14 @@ fungsi print() digunakan untuk mencetak output program dilayar. Fungsi if dan el
 ## Membuat Program Dengan Mengurutkan Data Bilangan Dari Data Terkecil.
 
 #### Untuk membuat progam tersebut gunakan perintah seperti gambar dibawah ini.
-![Gambar](ss/ss3.png)
+![Gambar](ss/ss3.png)           
 pada perintah for i in range() berfungsi untuk mengembalikan nilai berupa objek deret angka secara berurut sesuai dengan sintaks yang ditentukan, disini saya menggunakan range(7) yang berarti perulangan secara berurut dari 1 sampai 7. Pada perintah list.sort() berfungsi untuk mengurutkan data asli. Progam ini dibuat untuk mengurutkan bilangan dimulai dari yang terkecil ke terbesar yang sebelumnya bilangan tersebut belum berurut. Dibawah ini merupakan gambar hasil progam.                                                       
 ![Gambar](ss/ss4.png)
 
 ## Membuat Progam Perulangan Bertingkat NestedLoop
 
 #### Menggunakan perintah seperti gambar dibawah ini.
-![Gambar](ss/ss5.png)
+![Gambar](ss/ss5.png)           
 fungsi \t untuk menulis karakter tab, dan menggunakan perintah for loop untuk mengulangi item dari urutan apapun,seperti list atau string. Dibawah ini adalah gambal dari hasil menggunakan perintah for loop.
 ![Gambar](ss/ss6.png)
 
@@ -25,16 +25,16 @@ fungsi \t untuk menulis karakter tab, dan menggunakan perintah for loop untuk me
 #### Pada pembuatan progam ini menggunakan perintah kombinasi antara While dan For.
 ![Gambar](ss/ss7.png)
 #### Dibawah ini adalah gambar hasil pemograman dengan menggunakan kombinasi while dam for
-![Gambar](ss/ss8.png)
+![Gambar](ss/ss8.png)           
 Pada gambar tesrsebut saya memasukan nilai 3 yang berati perulangan akan muncul sebanyak 3 kali.
 
 ## Membuat Progam Sederhana Dengan Menetukan Bilangan Terbesar Dari Tiga Bilangan.
 
 #### Membuat Flowchacrt
-![Gambar](ss/ss9.png)
+![Gambar](ss/ss9.png)           
 Dengan memasukan 3 angka akan membandingkan ketiga bilangan tersebut untuk menghasilkan bilangan yang terbesar dari ketiga bilangan tersebut.
 #### Berikut adalah Code Pemograman Menggunakan Statement if 
-![Gambar](ss/ss10.png)
+![Gambar](ss/ss10.png)      
 Untuk variabel a,b,dan c adalah permisalan untuk bilangan pertama, kedua maupun ketiga.
 #### Beriku adalah hasil adri program pada saat dijalankan
 ![Gambar](ss/ss11.png)
